@@ -26,7 +26,7 @@
 
 ### opnfirewall-os
 
-- A archlinux based linux distribution that bundles all opnfirewall-web, opnfirewall-api-service together with the following tools
+- A Arch Linux based linux distribution that bundles all opnfirewall-web, opnfirewall-api-service together with the following tools
   - dhcpd (https://wiki.archlinux.org/title/dhcpd): A versitile dhcp server
   - bind (https://wiki.archlinux.org/title/BIND): An industry standard dns server
   - Iptables (https://wiki.archlinux.org/title/Iptables): An industry standard firewall application
