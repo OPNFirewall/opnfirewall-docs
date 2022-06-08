@@ -1,7 +1,4 @@
 # OPNFirewall
-
-[TOC]
-
 ## Scope of the Project
 
 - [ ] UI That doesn't look like 1869
@@ -15,8 +12,6 @@
 - Bootstrap Webapplication
 - Static (Loads really fast)
 
-
-
 ## opnfirewall-api-service
 
 - NodeJS Express application that edits and generates config files for the different services used by the opnfirewall project
@@ -25,7 +20,6 @@
   - An internal accessible api for the webinterface
 
 ### opnfirewall-os
-
 - A Arch Linux based linux distribution that bundles all opnfirewall-web, opnfirewall-api-service together with the following tools
   - dhcpd (https://wiki.archlinux.org/title/dhcpd): A versitile dhcp server
   - bind (https://wiki.archlinux.org/title/BIND): An industry standard dns server
