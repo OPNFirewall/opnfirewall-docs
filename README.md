@@ -26,3 +26,9 @@
   - Iptables (https://wiki.archlinux.org/title/Iptables): An industry standard firewall application
   - ntpd (https://wiki.archlinux.org/title/Network_Time_Protocol_daemon): A simple ntp Network time Daemon
   - wireguard (https://www.wireguard.com/): A modern approach to remote-access vpn
+
+## Contribution
+Everyone is welcome to contribute. Please see the individual sections of the project on this GitHub Organisation.
+
+### Contributors
+- Niklas Arnitz (https://niklasarnitz.com)
